@@ -1,0 +1,16 @@
+
+{
+  "name": "Block Blast",
+  "short_name": "BlockBlast",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#b483ff",
+  "theme_color": "#7a55d1",
+  "icons": [
+    {
+      "src": "logo_blockblast_lila.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
